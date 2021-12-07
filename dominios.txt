@@ -1,6 +1,3 @@
-www.jep.coop:443
-www.tarjetasjep.com:443
-www.jeprecompensas.com:443
-jepvirtual.jep.coop:443
-movil.jep.coop:443
-contactcenter.coopjep.fin.ec:443
+www.google.com:443
+www.facebook.com:443
+twitter.com:443
