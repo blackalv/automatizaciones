@@ -1,4 +1,4 @@
-##Autor Christian Alvarado##
+##Autor blackalv##
 ##Fecha: 05/10/2021##
 #Script para obtener los fingerprint de los certificados ssl#
 #En la misma carpeta que consta el archivo certificados.txt, se debe colocar el archivo extraerFingerprint.sh#
